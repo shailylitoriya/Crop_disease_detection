@@ -59,7 +59,7 @@ Built a CNN model using Keras:
 
 ## Sample Prediction
 
-<img src="https://raw.githubusercontent.com/shailylitoriya/Crop_disease_detection/main/test_image.jpg" width="200"/>
+<img src="https://raw.githubusercontent.com/shailylitoriya/Crop_disease_detection/main/test_Image.jpg" width="200"/>
 
 Prediction: **Tomato__Tomato_YellowLeaf__Curl_Virus**
 
