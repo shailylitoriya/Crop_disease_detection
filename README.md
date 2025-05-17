@@ -59,8 +59,8 @@ Built a CNN model using Keras:
 
 ## Sample Prediction
 
-<img src="test_images/test1.jpg" width="200"/>  
-Prediction: **Tomato__Tomato_YellowLeaf__Curl_Virus**
+<img src="/content/download (1).jpeg" width="200"/>  
+Prediction: **Pepper__bell___Bacterial_spot**
 
 ---
 
